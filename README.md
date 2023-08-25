@@ -8,7 +8,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    - [Introduction Video](#Video)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -106,14 +105,6 @@ You can deploy this project using:
 
 - GitHub: [@fdezcaminero](https://github.com/fdezcaminero)
 - LinkedIn: [José Fernández-Caminero](https://www.linkedin.com/in/fdezcaminero/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **[Responsiveness tailor made for tablets]**
-- [ ] **[Sign up/log in functionality]**
-- [ ] **[User commenting features]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
